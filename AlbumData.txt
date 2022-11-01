@@ -1,0 +1,27 @@
+2
+Album 1
+Artist One
+2022
+3
+Song 1
+Artist One
+3.5
+Song 2
+Artist One
+4.0
+Song 3
+Artist One
+3.25
+Album 2
+Artist Two
+2022
+3
+Song 3
+Artist Two
+3.5
+Song 4
+Artist Two
+2.75
+Song 5
+Artist Two
+4.25
